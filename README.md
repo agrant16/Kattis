@@ -66,7 +66,7 @@ F
 
 G
 
-	 Goldbach's Conjecture
+	Goldbach's Conjecture
 
 	Grass Seed
 
