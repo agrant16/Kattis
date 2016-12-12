@@ -1,3 +1,5 @@
+# Sum Kind of Problem
+
 def oddSum(n):
     return n * n 
 

@@ -1,3 +1,4 @@
+# ACM Scoring Contest
 line = input()
 
 problems = {}

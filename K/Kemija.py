@@ -1,3 +1,5 @@
+# Kemija
+
 vowels = 'aeiou'
 sentence = input()
 for c in vowels:

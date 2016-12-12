@@ -1,3 +1,5 @@
+# Take Two Stones
+
 n = int(input())
 
 if n % 2 == 0:

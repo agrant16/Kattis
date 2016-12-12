@@ -1,3 +1,5 @@
+# Seven Wonders
+
 from collections import Counter
 
 cards = Counter([n for n in input()])

@@ -1,3 +1,5 @@
+# Apaxiaaaaaaaaaaaans!
+
 name = input()
 newName = name[0]
 namelist = list(name)

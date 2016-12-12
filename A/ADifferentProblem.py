@@ -1,3 +1,5 @@
+# A Different Problem
+
 import sys
 
 for x in sys.stdin:

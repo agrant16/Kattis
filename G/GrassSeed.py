@@ -1,3 +1,5 @@
+# Grass Seed
+
 cost = float(input())
 lawns = int(input())
 

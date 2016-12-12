@@ -1,10 +1,10 @@
+# Support Vector Machine
+
 import math as m
 import sys
 
 length = int(input())
-
 wb = [float(n) for n in input().split()]
-
 w = wb[:len(wb) - 1]
 b = wb[len(wb) - 1]
 
@@ -19,7 +19,6 @@ def magnitude(w):
 
 def dx(x):
     return (matrixMult(x, transpose(w)) + b) / magnitude(w) 
-    
 
 for i in sys.stdin:
     x = [float(n) for n in i.split()]

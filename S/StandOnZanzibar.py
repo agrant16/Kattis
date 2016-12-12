@@ -1,3 +1,5 @@
+# Stand on Zanzibar
+
 T = int(input())
 
 while T > 0:

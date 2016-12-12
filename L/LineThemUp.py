@@ -1,9 +1,8 @@
-n = int(input())
+# Line Them Up
 
+n = int(input())
 increasing = False
 neither = False
-
-
 s1 = input()
 s2 = input()
 

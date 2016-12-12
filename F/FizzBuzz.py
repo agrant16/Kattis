@@ -1,3 +1,5 @@
+# FizzBuzz
+
 nums = list(map(int, input().split()))
 
 x = nums[0]

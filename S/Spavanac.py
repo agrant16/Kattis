@@ -1,5 +1,6 @@
-nums = list(map(int, input().split()))
+# Spavanac
 
+nums = list(map(int, input().split()))
 hours = nums[0]
 minutes = nums[1]
 

@@ -1,5 +1,6 @@
-presses = int(input())
+# Rijeci
 
+presses = int(input())
 A = 0
 B = 1
 

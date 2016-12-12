@@ -1,3 +1,5 @@
+# Pig Latin
+
 import sys
 
 vowels = 'aeiouy'

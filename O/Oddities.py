@@ -1,3 +1,5 @@
+# Oddities
+
 cases = int(input())
 for x in range(0, cases):
 	num = int(input())

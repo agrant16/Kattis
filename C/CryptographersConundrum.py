@@ -1,7 +1,7 @@
+# Cryptographer's Conundrum
+
 cypher = input()
-
 chunks = [cypher[0 + i:3 + i] for i in range(0, len(cypher), 3)]
-
 days = 0
 
 for x in chunks:

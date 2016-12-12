@@ -1,3 +1,5 @@
+# Odd Man Out
+
 from collections import Counter
 
 cases = int(input())

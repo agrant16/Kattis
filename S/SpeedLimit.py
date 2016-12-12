@@ -1,3 +1,5 @@
+# Speed Limit
+
 num = int(input())
 
 while num != -1:

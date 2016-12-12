@@ -1,5 +1,6 @@
-values = {}
+# Dice Cup
 
+values = {}
 nums = [int(n) for n in input().split()]
 
 for x in range(1, nums[0] + 1):

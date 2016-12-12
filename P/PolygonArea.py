@@ -1,7 +1,10 @@
+# Polygon Area
+
 def cworccw(list):
 	value = 0
 	for x in range(len(list) - 1):
-		value += (list[x + 1][0] - list[x][0]) * (list[x][1] + list[x + 1][1])
+	    value += ((list[x + 1][0] - list[x][0]) * 
+            (list[x][1] + list[x + 1][1]))
 
 	return value + (list[0][0] - list[-1][0]) * (list[0][1] + list[-1][1])
 	

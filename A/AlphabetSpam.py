@@ -1,3 +1,5 @@
+# Alphabet Spam
+
 line = input().strip()
 counts = [0.0 for x in range(4)]
 

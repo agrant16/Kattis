@@ -1,3 +1,5 @@
+# Karte
+
 s = input()
 dup = False
 cards = {'P' : [0,0,0,0,0,0,0,0,0,0,0,0,0],

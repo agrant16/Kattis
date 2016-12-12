@@ -1,3 +1,5 @@
+# Skener
+
 nums = [int(n) for n in input().split()]
 lines = []
 for x in range(nums[0]):

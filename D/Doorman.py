@@ -1,9 +1,8 @@
+# Doorman
+
 maxDiff = int(input())
-
 line = input()
-
 people, w, m, diff = 0, 0, 0, 0
-
 good = True
 
 while good:

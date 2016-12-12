@@ -1,3 +1,5 @@
+# Stuck in a Time Loop
+
 n = int(input())
 
 for x in range(n):

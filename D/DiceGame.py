@@ -1,3 +1,5 @@
+# Dice Game
+
 Gunnar = sum(list(map(int, input().split())))
 Emma = sum(list(map(int, input().split())))
 

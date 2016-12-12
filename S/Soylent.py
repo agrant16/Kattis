@@ -1,3 +1,5 @@
+# Soylent
+
 T = int(input())
 for x in range(T):
     calories = int(input())

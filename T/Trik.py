@@ -1,5 +1,6 @@
-moves = input()
+# Trik
 
+moves = input()
 cup = 1
 
 for char in moves:

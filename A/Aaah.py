@@ -1,3 +1,5 @@
+# Aaah!
+
 s1 = input()[:-1]
 s2 = input()[:-1]
 

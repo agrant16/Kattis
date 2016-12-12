@@ -1,3 +1,5 @@
+# Reverse Rot
+
 alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ_.'
 
 while True:

@@ -1,3 +1,5 @@
+# Ptice
+
 Adrian = ('ABC' * 33) + 'A'
 Bruno = 'BABC' * 25
 Goran = ('CCAABB' * 16) + 'CCAA'
