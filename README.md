@@ -4,7 +4,7 @@ This repository contains my solutions to problems found on [open.kattis.com](htt
 
 There are currently 65 solutions contained here. The solutions are listed below in Alphabetical order.
 
-A------------------------------
+A
 
 	A Different Problem
 
@@ -21,7 +21,7 @@ A------------------------------
 	Apaxiaaaaaaaaaaaans!
 
 
-B------------------------------
+B
 
 	Bacon Eggs and Spam
 
@@ -30,7 +30,7 @@ B------------------------------
 	Best Comporomise
 
 
-C------------------------------
+C
 
 	Calculus of Ada
 
@@ -41,7 +41,7 @@ C------------------------------
 	Cryptographer's Conundrum
 
 
-D------------------------------
+D
 
 	Detailed Differences
 
@@ -52,55 +52,55 @@ D------------------------------
 	Doorman
 
 
-E------------------------------
+E
 
 	Eligibility
 
 	Estimating the Area of a Circle
 
 
-F------------------------------
+F
 
 	FizzBuzz
 
 
-G------------------------------
+G
 
 	 Goldbach's Conjecture
 
 	Grass Seed
 
 
-H------------------------------
+H
 
 	Hello World!
 
 	Herman
 
 
-I------------------------------
+I
 
 	I've Been Everywhere Man
 
 
-J------------------------------
+J
 
 
-K------------------------------
+K
 
 	Karte
 
 	Kemija
 
 
-L------------------------------
+L
 
 	Ladder
 
 	Line Them Up
 
 
-M------------------------------
+M
 
 	Mirror Images
 
@@ -109,17 +109,17 @@ M------------------------------
 	Modulo
 
 
-N------------------------------
+N
 
 
-O------------------------------
+O
 
 	Odd Man Out
 
 	Oddities
 
 
-P------------------------------
+P
 
 	Pet
 
@@ -134,10 +134,10 @@ P------------------------------
 	Ptice
 
 
-Q------------------------------
+Q
 
 
-R------------------------------
+R
 
 	Reverse Rot
 
@@ -146,7 +146,7 @@ R------------------------------
 	Rijeci
 
 
-S------------------------------
+S
 
 	Seven Wonders
 
@@ -175,7 +175,7 @@ S------------------------------
 	Support Vector Machine
 
 
-T------------------------------
+T
 
 	T9 Spelling
 
@@ -190,24 +190,24 @@ T------------------------------
 	Trik
 
 
-U------------------------------
+U
 
 
-V------------------------------
+V
 
 
-W------------------------------
+W
 
 	What Does the Fox Say?
 
 
-X------------------------------
+X
 
 
-Y------------------------------
+Y
 
 
-Z------------------------------
+Z
 
 	Zamka
 
