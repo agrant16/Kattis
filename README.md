@@ -1,14 +1,14 @@
 # Kattis
 
-This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com).
+This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
 There are currently 69 problem solutions contained here. The problems are listed below in Alphabetical order. Each listing of a problem is also a link to the source code for my solution of that problem. For Java solutions Kattis requires that the class and file name be "Main". I have changed any Java solutions so that the class and file names are the associated problem title.
 
 | Language | Solutions Using |
 |---|---|
-| Python | 67 |
-| Java | 1 |
 | C++ | 1 |
+| Java | 1 |
+| Python | 67 |
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-top-" at the bottom of the section.
 
