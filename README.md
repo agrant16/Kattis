@@ -11,37 +11,37 @@ There are currently 68 solutions contained here. The solutions are listed below 
 
 [0](#0)  [1](#1)  [2](#2)  [3](#3)  [4](#4)  [5](#5)  [6](#6)  [7](#7)  [8](#8)  [9](#9)  [A](#A)  [B](#B)  [C](#C)  [D](#D)  [E](#E)  [F](#F)  [G](#G)  [H](#H)  [I](#I)  [J](#J)  [K](#K)  [L](#L)  [M](#M)  [N](#N)  [O](#O)  [P](#P)  [Q](#Q)  [R](#R)  [S](#S)  [T](#T)  [U](#U)  [V](#V)  [W](#W)  [X](#X)  [Y](#Y)  [Z](#Z)  
 
-#0
+# 0
 
 
-#1
+# 1
 
 
-#2
+# 2
 
 
-#3
+# 3
 
 
-#4
+# 4
 
 
-#5
+# 5
 
 
-#6
+# 6
 
 
-#7
+# 7
 
 
-#8
+# 8
 
 
-#9
+# 9
 
 
-#A
+# A
 
 [A Different Problem](A/ADifferentProblem.py)
 
@@ -58,7 +58,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Apaxiaaaaaaaaaaaans!](A/Apaxiaaaaaaaaaaaans!.py)
 
 
-#B
+# B
 
 [Babelfish](B/Babelfish.py)
 
@@ -69,7 +69,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Best Comporomise](B/BestCompromise.py)
 
 
-#C
+# C
 
 [Cetvrta](C/Cetvrta.py)
 
@@ -78,7 +78,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Cryptographer's Conundrum](C/CryptographersConundrum.py)
 
 
-#D
+# D
 
 [Daylight Saving Time](D/DaylightSavingTime.py)
 
@@ -91,55 +91,55 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Doorman](D/Doorman.py)
 
 
-#E
+# E
 
 [Eligibility](E/Eligibility.py)
 
 [Estimating the Area of a Circle](E/EstimatingtheAreaofaCircle.py)
 
 
-#F
+# F
 
 [FizzBuzz](F/FizzBuzz.py)
 
 
-#G
+# G
 
 [Goldbach's Conjecture](G/GoldbachsConjecture.cc)
 
 [Grass Seed](G/GrassSeed.py)
 
 
-#H
+# H
 
 [Hello World!](H/HelloWorld.py)
 
 [Herman](H/Herman.py)
 
 
-#I
+# I
 
 [I've Been Everywhere Man](I/IveBeenEverywhereMan.py)
 
 
-#J
+# J
 
 
-#K
+# K
 
 [Karte](K/Karte.py)
 
 [Kemija](K/Kemija.py)
 
 
-#L
+# L
 
 [Ladder](L/Ladder.py)
 
 [Line Them Up](L/LineThemUp.py)
 
 
-#M
+# M
 
 [Mirror Images](M/MirrorImages.py)
 
@@ -148,17 +148,17 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Modulo](M/Modulo.py)
 
 
-#N
+# N
 
 
-#O
+# O
 
 [Odd Man Out](O/OddManOut.py)
 
 [Oddities](O/Oddities.py)
 
 
-#P
+# P
 
 [Pet](P/Pet.py)
 
@@ -173,10 +173,10 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Ptice](P/Ptice.py)
 
 
-#Q
+# Q
 
 
-#R
+# R
 
 [Reverse Rot](R/ReverseRot.py)
 
@@ -185,7 +185,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Rijeci](R/Rijeci.py)
 
 
-#S
+# S
 
 [Seven Wonders](S/SevenWonders.py)
 
@@ -214,7 +214,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Support Vector Machine](S/SupportVectorMachine.py)
 
 
-#T
+# T
 
 [T9 Spelling](T/T9Spelling.py)
 
@@ -233,24 +233,24 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Trik](T/Trik.py)
 
 
-#U
+# U
 
 
-#V
+# V
 
 
-#W
+# W
 
 [What Does the Fox Say?](W/WhatDoestheFoxSay.py)
 
 
-#X
+# X
 
 
-#Y
+# Y
 
 
-#Z
+# Z
 
 [Zamka](Z/Zamka.py)
 
