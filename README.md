@@ -36,83 +36,83 @@ There are currently 68 solutions contained here. The solutions are listed below 
 
 A
 
-	A Different Problem
+	[A Different Problem](A/ADifferentProblem.py)
 
-	A Real Challenge
+	[A Real Challenge](A/ARealChallenge.py)
 
-	Aaah!
+	[Aaah!](A/Aaah.py)
 
-	ACM Scoring Contest
+	[ACM Scoring Contest](A/ACMContestScoring.py)
 
-	Alphabet Spam
+	[Alphabet Spam](A/AlphabetSpam.py)
 
-	Another Candies
+	[Another Candies](A/AnotherCandies.py)
 
-	Apaxiaaaaaaaaaaaans!
+	[Apaxiaaaaaaaaaaaans!](A/Apaxiaaaaaaaaaaaans!.py)
 
 
 B
 
-	Babelfish
+	[Babelfish](B/Babelfish.py)
 
-	Bacon Eggs and Spam
+	[Bacon Eggs and Spam](B/BaconEggsandSpam.py)
 
-	Bela
+	[Bela](B/Bela.py)
 
-	Best Comporomise
+	[Best Comporomise](B/BestCompromise.py)
 
 
 C
 
-	Cetvrta
+	[Cetvrta](C/Cetvrta.py)
 
-	Cold-puter Science
+	[Cold-puter Science](C/Cold-puterScience.py)
 
-	Cryptographer's Conundrum
+	[Cryptographer's Conundrum](C/CryptographersConundrum.py)
 
 
 D
 
-	Daylight Saving Time
+	[Daylight Saving Time](D/DaylightSavingTime.py)
 
-	Detailed Differences
+	[Detailed Differences](D/DetailedDifferences.py)
 
-	Dice Cup
+	[Dice Cup](D/DiceCup.py)
 
-	Dice Game
+	[Dice Game](D/DiceGame.py)
 
-	Doorman
+	[Doorman](D/Doorman.py)
 
 
 E
 
-	Eligibility
+	[Eligibility](E/Eligibility.py)
 
-	Estimating the Area of a Circle
+	[Estimating the Area of a Circle](E/EstimatingtheAreaofaCircle.py)
 
 
 F
 
-	FizzBuzz
+	[FizzBuzz](F/FizzBuzz.py)
 
 
 G
 
-	Goldbach's Conjecture
+	[Goldbach's Conjecture](G/GoldbachsConjecture.cc)
 
-	Grass Seed
+	[Grass Seed](G/GrassSeed.py)
 
 
 H
 
-	Hello World!
+	[Hello World!](H/HelloWorld.py)
 
-	Herman
+	[Herman](H/Herman.py)
 
 
 I
 
-	I've Been Everywhere Man
+	[I've Been Everywhere Man](I/IveBeenEverywhereMan.py)
 
 
 J
@@ -120,25 +120,25 @@ J
 
 K
 
-	Karte
+	[Karte](K/Karte.py)
 
-	Kemija
+	[Kemija](K/Kemija.py)
 
 
 L
 
-	Ladder
+	[Ladder](L/Ladder.py)
 
-	Line Them Up
+	[Line Them Up](L/LineThemUp.py)
 
 
 M
 
-	Mirror Images
+	[Mirror Images](M/MirrorImages.py)
 
-	Mixed Fractions
+	[Mixed Fractions](M/MixedFractions.py)
 
-	Modulo
+	[Modulo](M/Modulo.py)
 
 
 N
@@ -146,24 +146,24 @@ N
 
 O
 
-	Odd Man Out
+	[Odd Man Out](O/OddManOut.py)
 
-	Oddities
+	[Oddities](O/Oddities.py)
 
 
 P
 
-	Pet
+	[Pet](P/Pet.py)
 
-	Pig Latin
+	[Pig Latin](P/PigLatin.py)
 
-	Pizza Crust
+	[Pizza Crust](P/PizzaCrust.py)
 
-	Polygon Area
+	[Polygon Area](P/PolygonArea.py)
 
-	Pot
+	[Pot](P/Pot.py)
 
-	Ptice
+	[Ptice](P/Ptice.py)
 
 
 Q
@@ -171,59 +171,59 @@ Q
 
 R
 
-	Reverse Rot
+	[Reverse Rot](R/ReverseRot.py)
 
-	Reversed Binary Numbers
+	[Reversed Binary Numbers](R/ReversedBinaryNumbers.py)
 
-	Rijeci
+	[Rijeci](R/Rijeci.py)
 
 
 S
 
-	Seven Wonders
+	[Seven Wonders](S/SevenWonders.py)
 
-	Simon Says
+	[Simon Says](S/SimonSays.py)
 
-	Simplicity
+	[Simplicity](S/Simplicity.py)
 
-	Skener
+	[Skener](S/Skener.py)
 
-	Solving for Carrots
+	[Solving for Carrots](S/SolvingForCarrots.py)
 
-	Soylent
+	[Soylent](S/Soylent.py)
 
-	Spavanac
+	[Spavanac](S/Spavanac.py)
 
-	Speed Limit
+	[Speed Limit](S/SpeedLimit.py)
 
-	Stacking Cups
+	[Stacking Cups](S/StackingCups.py)
 
-	Stand on Zanzibar
+	[Stand on Zanzibar](S/StandOnZanzibar.py)
 
-	Stuck in a Time Loop
+	[Stuck in a Time Loop](S/StuckinaTimeLoop.py)
 
-	Sum Kind of Problem
+	[Sum Kind of Problem](S/SumKindOfProblem.py)
 
-	Support Vector Machine
+	[Support Vector Machine](S/SupportVectorMachine.py)
 
 
 T
 
-	T9 Spelling
+	[T9 Spelling](T/T9Spelling.py)
 
-	Tajna
+	[Tajna](T/Tajna.py)
 
-	Take Two Stones
+	[Take Two Stones](T/TakeTwoStones.py)
 
-	The Calculus of Ada
+	[The Calculus of Ada](T/TheCalculusofAda.py)
 
-	The Easiest Problem is This One
+	[The Easiest Problem is This One](T/TheEasiestProblemisThisOne.py)
 
-	Track Smoothing
+	[Track Smoothing](T/TrackSmoothing.py)
 
-	Tri
+	[Tri](T/Tri.py)
 
-	Trik
+	[Trik](T/Trik.py)
 
 
 U
@@ -234,7 +234,7 @@ V
 
 W
 
-	What Does the Fox Say?
+	[What Does the Fox Say?](W/WhatDoestheFoxSay.py)
 
 
 X
@@ -245,6 +245,6 @@ Y
 
 Z
 
-	Zamka
+	[Zamka](Z/Zamka.py)
 
 
