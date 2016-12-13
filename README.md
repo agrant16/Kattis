@@ -6,9 +6,9 @@ There are currently 69 problem solutions contained here. The problems are listed
 
 | Language | Solutions Using |
 |---|---|
+| Java | 1 |
 | C++ | 1 |
 | Python | 67 |
-| Java | 1 |
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
@@ -66,99 +66,99 @@ Click the appropriate character to jump to the section containing problems whose
 
 # A
 
-[A Different Problem](A/ADifferentProblem.py)
+[A Different Problem](Source/A/ADifferentProblem.py)
 
-[A Real Challenge](A/ARealChallenge.py)
+[A Real Challenge](Source/A/ARealChallenge.py)
 
-[Aaah!](A/Aaah.py)
+[Aaah!](Source/A/Aaah.py)
 
-[ACM Scoring Contest](A/ACMContestScoring.py)
+[ACM Scoring Contest](Source/A/ACMContestScoring.py)
 
-[Alphabet Spam](A/AlphabetSpam.py)
+[Alphabet Spam](Source/A/AlphabetSpam.py)
 
-[Another Candies](A/AnotherCandies.py)
+[Another Candies](Source/A/AnotherCandies.py)
 
-[Apaxiaaaaaaaaaaaans!](A/Apaxiaaaaaaaaaaaans!.py)
+[Apaxiaaaaaaaaaaaans!](Source/A/Apaxiaaaaaaaaaaaans!.py)
 
 
 [-Top-](#kattis)
 
 # B
 
-[Babelfish](B/Babelfish.py)
+[Babelfish](Source/B/Babelfish.py)
 
-[Bacon Eggs and Spam](B/BaconEggsandSpam.py)
+[Bacon Eggs and Spam](Source/B/BaconEggsandSpam.py)
 
-[Bela](B/Bela.py)
+[Bela](Source/B/Bela.py)
 
-[Best Comporomise](B/BestCompromise.py)
+[Best Comporomise](Source/B/BestCompromise.py)
 
 
 [-Top-](#kattis)
 
 # C
 
-[Cetvrta](C/Cetvrta.py)
+[Cetvrta](Source/C/Cetvrta.py)
 
-[Cold-puter Science](C/Cold-puterScience.py)
+[Cold-puter Science](Source/C/Cold-puterScience.py)
 
-[Cryptographer's Conundrum](C/CryptographersConundrum.py)
+[Cryptographer's Conundrum](Source/C/CryptographersConundrum.py)
 
 
 [-Top-](#kattis)
 
 # D
 
-[Daylight Saving Time](D/DaylightSavingTime.py)
+[Daylight Saving Time](Source/D/DaylightSavingTime.py)
 
-[Detailed Differences](D/DetailedDifferences.py)
+[Detailed Differences](Source/D/DetailedDifferences.py)
 
-[Dice Cup](D/DiceCup.py)
+[Dice Cup](Source/D/DiceCup.py)
 
-[Dice Game](D/DiceGame.py)
+[Dice Game](Source/D/DiceGame.py)
 
-[Doorman](D/Doorman.py)
+[Doorman](Source/D/Doorman.py)
 
 
 [-Top-](#kattis)
 
 # E
 
-[Eligibility](E/Eligibility.py)
+[Eligibility](Source/E/Eligibility.py)
 
-[Estimating the Area of a Circle](E/EstimatingtheAreaofaCircle.py)
+[Estimating the Area of a Circle](Source/E/EstimatingtheAreaofaCircle.py)
 
 
 [-Top-](#kattis)
 
 # F
 
-[FizzBuzz](F/FizzBuzz.py)
+[FizzBuzz](Source/F/FizzBuzz.py)
 
 
 [-Top-](#kattis)
 
 # G
 
-[Goldbach's Conjecture](G/GoldbachsConjecture.cc)
+[Goldbach's Conjecture](Source/G/GoldbachsConjecture.cc)
 
-[Grass Seed](G/GrassSeed.py)
+[Grass Seed](Source/G/GrassSeed.py)
 
 
 [-Top-](#kattis)
 
 # H
 
-[Hello World!](H/HelloWorld.py)
+[Hello World!](Source/H/HelloWorld.py)
 
-[Herman](H/Herman.py)
+[Herman](Source/H/Herman.py)
 
 
 [-Top-](#kattis)
 
 # I
 
-[I've Been Everywhere Man](I/IveBeenEverywhereMan.py)
+[I've Been Everywhere Man](Source/I/IveBeenEverywhereMan.py)
 
 
 [-Top-](#kattis)
@@ -170,29 +170,29 @@ Click the appropriate character to jump to the section containing problems whose
 
 # K
 
-[Karte](K/Karte.py)
+[Karte](Source/K/Karte.py)
 
-[Kemija](K/Kemija.py)
+[Kemija](Source/K/Kemija.py)
 
 
 [-Top-](#kattis)
 
 # L
 
-[Ladder](L/Ladder.py)
+[Ladder](Source/L/Ladder.py)
 
-[Line Them Up](L/LineThemUp.py)
+[Line Them Up](Source/L/LineThemUp.py)
 
 
 [-Top-](#kattis)
 
 # M
 
-[Mirror Images](M/MirrorImages.py)
+[Mirror Images](Source/M/MirrorImages.py)
 
-[Mixed Fractions](M/MixedFractions.py)
+[Mixed Fractions](Source/M/MixedFractions.py)
 
-[Modulo](M/Modulo.py)
+[Modulo](Source/M/Modulo.py)
 
 
 [-Top-](#kattis)
@@ -204,26 +204,26 @@ Click the appropriate character to jump to the section containing problems whose
 
 # O
 
-[Odd Man Out](O/OddManOut.py)
+[Odd Man Out](Source/O/OddManOut.py)
 
-[Oddities](O/Oddities.py)
+[Oddities](Source/O/Oddities.py)
 
 
 [-Top-](#kattis)
 
 # P
 
-[Pet](P/Pet.py)
+[Pet](Source/P/Pet.py)
 
-[Pig Latin](P/PigLatin.py)
+[Pig Latin](Source/P/PigLatin.py)
 
-[Pizza Crust](P/PizzaCrust.py)
+[Pizza Crust](Source/P/PizzaCrust.py)
 
-[Polygon Area](P/PolygonArea.py)
+[Polygon Area](Source/P/PolygonArea.py)
 
-[Pot](P/Pot.py)
+[Pot](Source/P/Pot.py)
 
-[Ptice](P/Ptice.py)
+[Ptice](Source/P/Ptice.py)
 
 
 [-Top-](#kattis)
@@ -235,65 +235,65 @@ Click the appropriate character to jump to the section containing problems whose
 
 # R
 
-[Reverse Rot](R/ReverseRot.py)
+[Reverse Rot](Source/R/ReverseRot.py)
 
-[Reversed Binary Numbers](R/ReversedBinaryNumbers.py)
+[Reversed Binary Numbers](Source/R/ReversedBinaryNumbers.py)
 
-[Rijeci](R/Rijeci.py)
+[Rijeci](Source/R/Rijeci.py)
 
 
 [-Top-](#kattis)
 
 # S
 
-[Seven Wonders](S/SevenWonders.py)
+[Seven Wonders](Source/S/SevenWonders.py)
 
-[Simon Says](S/SimonSays.py)
+[Simon Says](Source/S/SimonSays.py)
 
-[Simplicity](S/Simplicity.py)
+[Simplicity](Source/S/Simplicity.py)
 
-[Skener](S/Skener.py)
+[Skener](Source/S/Skener.py)
 
-[Solving for Carrots](S/SolvingForCarrots.py)
+[Solving for Carrots](Source/S/SolvingForCarrots.py)
 
-[Soylent](S/Soylent.py)
+[Soylent](Source/S/Soylent.py)
 
-[Spavanac](S/Spavanac.py)
+[Spavanac](Source/S/Spavanac.py)
 
-[Speed Limit](S/SpeedLimit.py)
+[Speed Limit](Source/S/SpeedLimit.py)
 
-[Stacking Cups](S/StackingCups.py)
+[Stacking Cups](Source/S/StackingCups.py)
 
-[Stand on Zanzibar](S/StandOnZanzibar.py)
+[Stand on Zanzibar](Source/S/StandOnZanzibar.py)
 
-[Stuck in a Time Loop](S/StuckinaTimeLoop.py)
+[Stuck in a Time Loop](Source/S/StuckinaTimeLoop.py)
 
-[Sum Kind of Problem](S/SumKindOfProblem.py)
+[Sum Kind of Problem](Source/S/SumKindOfProblem.py)
 
-[Support Vector Machine](S/SupportVectorMachine.py)
+[Support Vector Machine](Source/S/SupportVectorMachine.py)
 
-[Symmetric Order](S/SymmetricOrder.java)
+[Symmetric Order](Source/S/SymmetricOrder.java)
 
 
 [-Top-](#kattis)
 
 # T
 
-[T9 Spelling](T/T9Spelling.py)
+[T9 Spelling](Source/T/T9Spelling.py)
 
-[Tajna](T/Tajna.py)
+[Tajna](Source/T/Tajna.py)
 
-[Take Two Stones](T/TakeTwoStones.py)
+[Take Two Stones](Source/T/TakeTwoStones.py)
 
-[The Calculus of Ada](T/TheCalculusofAda.py)
+[The Calculus of Ada](Source/T/TheCalculusofAda.py)
 
-[The Easiest Problem is This One](T/TheEasiestProblemisThisOne.py)
+[The Easiest Problem is This One](Source/T/TheEasiestProblemisThisOne.py)
 
-[Track Smoothing](T/TrackSmoothing.py)
+[Track Smoothing](Source/T/TrackSmoothing.py)
 
-[Tri](T/Tri.py)
+[Tri](Source/T/Tri.py)
 
-[Trik](T/Trik.py)
+[Trik](Source/T/Trik.py)
 
 
 [-Top-](#kattis)
@@ -310,7 +310,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 # W
 
-[What Does the Fox Say?](W/WhatDoestheFoxSay.py)
+[What Does the Fox Say?](Source/W/WhatDoestheFoxSay.py)
 
 
 [-Top-](#kattis)
@@ -327,7 +327,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 # Z
 
-[Zamka](Z/Zamka.py)
+[Zamka](Source/Z/Zamka.py)
 
 
 [-Top-](#kattis)
