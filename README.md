@@ -2,65 +2,65 @@
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com).
 
-There are currently 68 solutions contained here. The solutions are listed below in Alphabetical order.
+There are currently 68 problem solutions contained here. The problems are listed below in Alphabetical order. Each listing of a problem is also a link to the source code for my solution of that problem. 
 
 | Language | Solutions Using |
 |---|---|
 | Python | 67 |
-| Java | 0 |
 | C++ | 1 |
+| Java | 0 |
 
 [**0**](#0)	[**1**](#1)	[**2**](#2)	[**3**](#3)	[**4**](#4)	[**5**](#5)	[**6**](#6)	[**7**](#7)	[**8**](#8)	[**9**](#9)	[**A**](#a)	[**B**](#b)	[**C**](#c)	[**D**](#d)	[**E**](#e)	[**F**](#f)	[**G**](#g)	[**H**](#h)	[**I**](#i)	[**J**](#j)	[**K**](#k)	[**L**](#l)	[**M**](#m)	[**N**](#n)	[**O**](#o)	[**P**](#p)	[**Q**](#q)	[**R**](#r)	[**S**](#s)	[**T**](#t)	[**U**](#u)	[**V**](#v)	[**W**](#w)	[**X**](#x)	[**Y**](#y)	[**Z**](#z)	
 
 # 0
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 1
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 2
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 3
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 4
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 5
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 6
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 7
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 8
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # 9
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # A
 
@@ -79,7 +79,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Apaxiaaaaaaaaaaaans!](A/Apaxiaaaaaaaaaaaans!.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # B
 
@@ -92,7 +92,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Best Comporomise](B/BestCompromise.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # C
 
@@ -103,7 +103,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Cryptographer's Conundrum](C/CryptographersConundrum.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # D
 
@@ -118,7 +118,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Doorman](D/Doorman.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # E
 
@@ -127,14 +127,14 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Estimating the Area of a Circle](E/EstimatingtheAreaofaCircle.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # F
 
 [FizzBuzz](F/FizzBuzz.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # G
 
@@ -143,7 +143,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Grass Seed](G/GrassSeed.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # H
 
@@ -152,19 +152,19 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Herman](H/Herman.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # I
 
 [I've Been Everywhere Man](I/IveBeenEverywhereMan.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # J
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # K
 
@@ -173,7 +173,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Kemija](K/Kemija.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # L
 
@@ -182,7 +182,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Line Them Up](L/LineThemUp.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # M
 
@@ -193,12 +193,12 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Modulo](M/Modulo.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # N
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # O
 
@@ -207,7 +207,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Oddities](O/Oddities.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # P
 
@@ -224,12 +224,12 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Ptice](P/Ptice.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # Q
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # R
 
@@ -240,7 +240,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Rijeci](R/Rijeci.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # S
 
@@ -271,7 +271,7 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Support Vector Machine](S/SupportVectorMachine.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # T
 
@@ -292,39 +292,39 @@ There are currently 68 solutions contained here. The solutions are listed below 
 [Trik](T/Trik.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # U
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # V
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # W
 
 [What Does the Fox Say?](W/WhatDoestheFoxSay.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # X
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # Y
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
 # Z
 
 [Zamka](Z/Zamka.py)
 
 
-[-Top-](kattis)
+[-Top-](#kattis)
 
