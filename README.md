@@ -4,6 +4,11 @@ This repository contains my solutions to problems found on [open.kattis.com](htt
 
 There are currently 68 solutions contained here. The solutions are listed below in Alphabetical order.
 
+| Language | Solutions Using |
+|---|---|
+| C++ | 1 |
+| Python | 67 |
+
 #0
 
 
