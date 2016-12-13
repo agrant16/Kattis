@@ -4,247 +4,247 @@ This repository contains my solutions to problems found on [open.kattis.com](htt
 
 There are currently 68 solutions contained here. The solutions are listed below in Alphabetical order.
 
-0
+#0
 
 
-1
+#1
 
 
-2
+#2
 
 
-3
+#3
 
 
-4
+#4
 
 
-5
+#5
 
 
-6
+#6
 
 
-7
+#7
 
 
-8
+#8
 
 
-9
+#9
 
 
-A
+#A
 
-	[A Different Problem](A/ADifferentProblem.py)
+[A Different Problem](A/ADifferentProblem.py)
 
-	[A Real Challenge](A/ARealChallenge.py)
+[A Real Challenge](A/ARealChallenge.py)
 
-	[Aaah!](A/Aaah.py)
+[Aaah!](A/Aaah.py)
 
-	[ACM Scoring Contest](A/ACMContestScoring.py)
+[ACM Scoring Contest](A/ACMContestScoring.py)
 
-	[Alphabet Spam](A/AlphabetSpam.py)
+[Alphabet Spam](A/AlphabetSpam.py)
 
-	[Another Candies](A/AnotherCandies.py)
+[Another Candies](A/AnotherCandies.py)
 
-	[Apaxiaaaaaaaaaaaans!](A/Apaxiaaaaaaaaaaaans!.py)
+[Apaxiaaaaaaaaaaaans!](A/Apaxiaaaaaaaaaaaans!.py)
 
 
-B
+#B
 
-	[Babelfish](B/Babelfish.py)
+[Babelfish](B/Babelfish.py)
 
-	[Bacon Eggs and Spam](B/BaconEggsandSpam.py)
+[Bacon Eggs and Spam](B/BaconEggsandSpam.py)
 
-	[Bela](B/Bela.py)
+[Bela](B/Bela.py)
 
-	[Best Comporomise](B/BestCompromise.py)
+[Best Comporomise](B/BestCompromise.py)
 
 
-C
+#C
 
-	[Cetvrta](C/Cetvrta.py)
+[Cetvrta](C/Cetvrta.py)
 
-	[Cold-puter Science](C/Cold-puterScience.py)
+[Cold-puter Science](C/Cold-puterScience.py)
 
-	[Cryptographer's Conundrum](C/CryptographersConundrum.py)
+[Cryptographer's Conundrum](C/CryptographersConundrum.py)
 
 
-D
+#D
 
-	[Daylight Saving Time](D/DaylightSavingTime.py)
+[Daylight Saving Time](D/DaylightSavingTime.py)
 
-	[Detailed Differences](D/DetailedDifferences.py)
+[Detailed Differences](D/DetailedDifferences.py)
 
-	[Dice Cup](D/DiceCup.py)
+[Dice Cup](D/DiceCup.py)
 
-	[Dice Game](D/DiceGame.py)
+[Dice Game](D/DiceGame.py)
 
-	[Doorman](D/Doorman.py)
+[Doorman](D/Doorman.py)
 
 
-E
+#E
 
-	[Eligibility](E/Eligibility.py)
+[Eligibility](E/Eligibility.py)
 
-	[Estimating the Area of a Circle](E/EstimatingtheAreaofaCircle.py)
+[Estimating the Area of a Circle](E/EstimatingtheAreaofaCircle.py)
 
 
-F
+#F
 
-	[FizzBuzz](F/FizzBuzz.py)
+[FizzBuzz](F/FizzBuzz.py)
 
 
-G
+#G
 
-	[Goldbach's Conjecture](G/GoldbachsConjecture.cc)
+[Goldbach's Conjecture](G/GoldbachsConjecture.cc)
 
-	[Grass Seed](G/GrassSeed.py)
+[Grass Seed](G/GrassSeed.py)
 
 
-H
+#H
 
-	[Hello World!](H/HelloWorld.py)
+[Hello World!](H/HelloWorld.py)
 
-	[Herman](H/Herman.py)
+[Herman](H/Herman.py)
 
 
-I
+#I
 
-	[I've Been Everywhere Man](I/IveBeenEverywhereMan.py)
+[I've Been Everywhere Man](I/IveBeenEverywhereMan.py)
 
 
-J
+#J
 
 
-K
+#K
 
-	[Karte](K/Karte.py)
+[Karte](K/Karte.py)
 
-	[Kemija](K/Kemija.py)
+[Kemija](K/Kemija.py)
 
 
-L
+#L
 
-	[Ladder](L/Ladder.py)
+[Ladder](L/Ladder.py)
 
-	[Line Them Up](L/LineThemUp.py)
+[Line Them Up](L/LineThemUp.py)
 
 
-M
+#M
 
-	[Mirror Images](M/MirrorImages.py)
+[Mirror Images](M/MirrorImages.py)
 
-	[Mixed Fractions](M/MixedFractions.py)
+[Mixed Fractions](M/MixedFractions.py)
 
-	[Modulo](M/Modulo.py)
+[Modulo](M/Modulo.py)
 
 
-N
+#N
 
 
-O
+#O
 
-	[Odd Man Out](O/OddManOut.py)
+[Odd Man Out](O/OddManOut.py)
 
-	[Oddities](O/Oddities.py)
+[Oddities](O/Oddities.py)
 
 
-P
+#P
 
-	[Pet](P/Pet.py)
+[Pet](P/Pet.py)
 
-	[Pig Latin](P/PigLatin.py)
+[Pig Latin](P/PigLatin.py)
 
-	[Pizza Crust](P/PizzaCrust.py)
+[Pizza Crust](P/PizzaCrust.py)
 
-	[Polygon Area](P/PolygonArea.py)
+[Polygon Area](P/PolygonArea.py)
 
-	[Pot](P/Pot.py)
+[Pot](P/Pot.py)
 
-	[Ptice](P/Ptice.py)
+[Ptice](P/Ptice.py)
 
 
-Q
+#Q
 
 
-R
+#R
 
-	[Reverse Rot](R/ReverseRot.py)
+[Reverse Rot](R/ReverseRot.py)
 
-	[Reversed Binary Numbers](R/ReversedBinaryNumbers.py)
+[Reversed Binary Numbers](R/ReversedBinaryNumbers.py)
 
-	[Rijeci](R/Rijeci.py)
+[Rijeci](R/Rijeci.py)
 
 
-S
+#S
 
-	[Seven Wonders](S/SevenWonders.py)
+[Seven Wonders](S/SevenWonders.py)
 
-	[Simon Says](S/SimonSays.py)
+[Simon Says](S/SimonSays.py)
 
-	[Simplicity](S/Simplicity.py)
+[Simplicity](S/Simplicity.py)
 
-	[Skener](S/Skener.py)
+[Skener](S/Skener.py)
 
-	[Solving for Carrots](S/SolvingForCarrots.py)
+[Solving for Carrots](S/SolvingForCarrots.py)
 
-	[Soylent](S/Soylent.py)
+[Soylent](S/Soylent.py)
 
-	[Spavanac](S/Spavanac.py)
+[Spavanac](S/Spavanac.py)
 
-	[Speed Limit](S/SpeedLimit.py)
+[Speed Limit](S/SpeedLimit.py)
 
-	[Stacking Cups](S/StackingCups.py)
+[Stacking Cups](S/StackingCups.py)
 
-	[Stand on Zanzibar](S/StandOnZanzibar.py)
+[Stand on Zanzibar](S/StandOnZanzibar.py)
 
-	[Stuck in a Time Loop](S/StuckinaTimeLoop.py)
+[Stuck in a Time Loop](S/StuckinaTimeLoop.py)
 
-	[Sum Kind of Problem](S/SumKindOfProblem.py)
+[Sum Kind of Problem](S/SumKindOfProblem.py)
 
-	[Support Vector Machine](S/SupportVectorMachine.py)
+[Support Vector Machine](S/SupportVectorMachine.py)
 
 
-T
+#T
 
-	[T9 Spelling](T/T9Spelling.py)
+[T9 Spelling](T/T9Spelling.py)
 
-	[Tajna](T/Tajna.py)
+[Tajna](T/Tajna.py)
 
-	[Take Two Stones](T/TakeTwoStones.py)
+[Take Two Stones](T/TakeTwoStones.py)
 
-	[The Calculus of Ada](T/TheCalculusofAda.py)
+[The Calculus of Ada](T/TheCalculusofAda.py)
 
-	[The Easiest Problem is This One](T/TheEasiestProblemisThisOne.py)
+[The Easiest Problem is This One](T/TheEasiestProblemisThisOne.py)
 
-	[Track Smoothing](T/TrackSmoothing.py)
+[Track Smoothing](T/TrackSmoothing.py)
 
-	[Tri](T/Tri.py)
+[Tri](T/Tri.py)
 
-	[Trik](T/Trik.py)
+[Trik](T/Trik.py)
 
 
-U
+#U
 
 
-V
+#V
 
 
-W
+#W
 
-	[What Does the Fox Say?](W/WhatDoestheFoxSay.py)
+[What Does the Fox Say?](W/WhatDoestheFoxSay.py)
 
 
-X
+#X
 
 
-Y
+#Y
 
 
-Z
+#Z
 
-	[Zamka](Z/Zamka.py)
+[Zamka](Z/Zamka.py)
 
 
