@@ -6,11 +6,11 @@ There are currently 69 problem solutions contained here. The problems are listed
 
 | Language | Solutions Using |
 |---|---|
-| C++ | 1 |
-| Java | 1 |
 | Python | 67 |
+| Java | 1 |
+| C++ | 1 |
 
-Click the appropriate character to jump to the section containing problems whose title said character. To return to the top click the link titled "-top-" at the bottom of the section.
+Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-top-" at the bottom of the section.
 
 [**0**](#0)	[**1**](#1)	[**2**](#2)	[**3**](#3)	[**4**](#4)	[**5**](#5)	[**6**](#6)	[**7**](#7)	[**8**](#8)	[**9**](#9)	[**A**](#a)	[**B**](#b)	[**C**](#c)	[**D**](#d)	[**E**](#e)	[**F**](#f)	[**G**](#g)	[**H**](#h)	[**I**](#i)	[**J**](#j)	[**K**](#k)	[**L**](#l)	[**M**](#m)	[**N**](#n)	[**O**](#o)	[**P**](#p)	[**Q**](#q)	[**R**](#r)	[**S**](#s)	[**T**](#t)	[**U**](#u)	[**V**](#v)	[**W**](#w)	[**X**](#x)	[**Y**](#y)	[**Z**](#z)	
 
