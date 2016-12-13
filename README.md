@@ -2,7 +2,7 @@
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com).
 
-There are currently 67 solutions contained here. The solutions are listed below in Alphabetical order.
+There are currently 68 solutions contained here. The solutions are listed below in Alphabetical order.
 
 0
 
@@ -63,8 +63,6 @@ B
 
 
 C
-
-	Calculus of Ada
 
 	Cetvrta
 
@@ -216,6 +214,10 @@ T
 	Tajna
 
 	Take Two Stones
+
+	The Calculus of Ada
+
+	The Easiest Problem is This One
 
 	Track Smoothing
 
