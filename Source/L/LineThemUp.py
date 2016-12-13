@@ -20,7 +20,6 @@ for x in range(n - 2):
         neither = True  
         break
 
-
 if not neither:
     if increasing:
         print("INCREASING")

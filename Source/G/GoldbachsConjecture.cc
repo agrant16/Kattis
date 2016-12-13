@@ -1,4 +1,4 @@
-// Goldbach's Conjecture
+//Goldbach's Conjecture
 
 #include <iostream>
 #include <vector>
@@ -7,6 +7,7 @@ using namespace std;
 
 vector<int> primes = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29};
 
+// dedup and getPrimes compose a Sieve algorithm for finding prime numbers
 void dedup(vector<int>& v, int n, int p)
 {
     for (int i = 0; i < v.size(); i++) 

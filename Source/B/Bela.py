@@ -9,9 +9,7 @@ values = { 'A': (11, 11),
            '8': (0, 0),
            '7': (0, 0) }
 
-
 given = input().split()
-
 hands = int(given[0])
 dom = given[1]
 score = 0

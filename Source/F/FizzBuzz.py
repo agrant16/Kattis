@@ -1,7 +1,6 @@
 # FizzBuzz
 
 nums = list(map(int, input().split()))
-
 x = nums[0]
 y = nums[1]
 n = nums[2]

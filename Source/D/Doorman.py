@@ -42,6 +42,5 @@ while good:
     else:
         people += 1
         line = line[1:]
-        
 
 print(people)

@@ -9,4 +9,3 @@ for x in range(N):
     print(str1)
     print(str2)
     print(''.join(diffs))
-

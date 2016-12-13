@@ -17,5 +17,3 @@ for x in range(0, num):
         else:
             foxString = foxString + fox[x]
     print(foxString)
-    
-

@@ -9,5 +9,4 @@ for x in namelist:
         newName += x
         y += 1
 
-
 print(newName)

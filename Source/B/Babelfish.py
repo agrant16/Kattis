@@ -10,4 +10,3 @@ for i in sys.stdin:
         d[key] = word
     elif s != '':
         print(d[s] if s in d.keys() else 'eh')
-

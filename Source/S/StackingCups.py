@@ -21,5 +21,3 @@ stuff = sorted(stuff)
 
 for pair in stuff:
     print(pair[1])
-
-        

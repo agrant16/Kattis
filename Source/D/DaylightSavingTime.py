@@ -24,6 +24,5 @@ for x in range(cases):
             hours = (hours - hourChange) % 24
         minutes = (minutes - minChange) % 60
         
-
     print(' '.join(map(str, [hours, minutes])))
 

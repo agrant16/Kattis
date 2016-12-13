@@ -13,5 +13,4 @@ if minutes < 45:
 else:
     minutes = minutes - 45
 
-
 print(str(hours) + " " + str(minutes))

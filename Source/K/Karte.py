@@ -19,5 +19,3 @@ for x in range(0, len(s), 3):
 if not dup:
     missing = [str(13 - sum(cards[x])) for x in 'PKHT']
     print(' '.join(missing))
-    
-    

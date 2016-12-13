@@ -38,7 +38,6 @@ for x in range(1,n+1):
         if converted_message[len(converted_message) - 1] == str(keypad[c])[0]:
             converted_message += ' '
         converted_message += str(keypad[c])
-
         converted_message.strip()
 
     print('Case #' + str(x) + ': ' + converted_message)
