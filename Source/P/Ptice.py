@@ -4,9 +4,9 @@ Adrian = ('ABC' * 33) + 'A'
 Bruno = 'BABC' * 25
 Goran = ('CCAABB' * 16) + 'CCAA'
 
-correct = { 'Adrian' : 0,
-            'Bruno' : 0,
-            'Goran' : 0 }
+correct = {'Adrian': 0,
+           'Bruno': 0,
+           'Goran': 0}
 
 questions = int(input().strip())
 answers = input().strip()

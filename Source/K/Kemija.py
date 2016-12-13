@@ -3,5 +3,5 @@
 vowels = 'aeiou'
 sentence = input()
 for c in vowels:
-	sentence = sentence.replace(c + 'p' + c, c)
+    sentence = sentence.replace(c + 'p' + c, c)
 print(sentence)

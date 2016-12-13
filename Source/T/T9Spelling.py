@@ -31,7 +31,7 @@ keypad = {'a': 2,
 
 n = int(input())
 
-for x in range(1,n+1):
+for x in range(1, n + 1):
     message = input()
     converted_message = ' '
     for c in message:

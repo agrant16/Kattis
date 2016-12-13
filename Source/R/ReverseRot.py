@@ -14,4 +14,3 @@ while True:
         print(newString)
     else:
         break
-    

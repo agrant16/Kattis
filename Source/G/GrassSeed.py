@@ -3,6 +3,7 @@
 cost = float(input())
 lawns = int(input())
 
+
 def area(x, y):
     return x * y
 

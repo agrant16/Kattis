@@ -6,9 +6,9 @@ There are currently 69 problem solutions contained here. The problems are listed
 
 | Language | Solutions Using |
 |---|---|
+| Java | 1 |
 | Python 3 | 67 |
 | C++ | 1 |
-| Java | 1 |
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 

@@ -14,10 +14,10 @@ for x in range(n - 2):
     s2 = input()
 
     if s1 > s2 and increasing:
-        neither = True      
+        neither = True
         break
     elif not increasing and s1 < s2:
-        neither = True  
+        neither = True
         break
 
 if not neither:

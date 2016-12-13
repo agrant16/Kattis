@@ -4,7 +4,7 @@ cases = int(input())
 
 for x in range(cases):
     direction, minChange, hours, minutes = input().strip().split()
-    
+
     minChange = int(minChange)
     hourChange = minChange // 60
     hours = int(hours)
@@ -23,6 +23,5 @@ for x in range(cases):
         else:
             hours = (hours - hourChange) % 24
         minutes = (minutes - minChange) % 60
-        
-    print(' '.join(map(str, [hours, minutes])))
 
+    print(' '.join(map(str, [hours, minutes])))

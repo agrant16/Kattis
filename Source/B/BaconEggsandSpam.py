@@ -5,7 +5,7 @@ num = int(input())
 
 while num > 0:
     people = num
-    
+
     while people > 0:
         line = input().split()
         name = line[0]
@@ -25,7 +25,7 @@ while num > 0:
     for key in keys:
         names = sorted(food[key])
         printout = key + ' '
-    
+
         for name in names:
             printout += name + ' '
 
@@ -33,5 +33,5 @@ while num > 0:
         print(printout)
 
     food.clear()
-    
+
     num = int(input())

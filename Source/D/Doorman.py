@@ -11,7 +11,7 @@ while good:
             w += 1
         else:
             m += 1
-        diff =  abs(w - m)
+        diff = abs(w - m)
         if diff > maxDiff:
             good = False
             continue

@@ -1,5 +1,6 @@
 # Stacking Cups
 
+
 def is_int(x):
     try:
         i = int(x)

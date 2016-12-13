@@ -4,6 +4,7 @@ import sys
 
 vowels = 'aeiouy'
 
+
 def piglatin(word):
     if word[0] in vowels:
         word += 'yay'

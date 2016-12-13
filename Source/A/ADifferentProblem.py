@@ -3,5 +3,5 @@
 import sys
 
 for x in sys.stdin:
-    x,y = map(int, x.split())
-    print(abs(x-y))
+    x, y = map(int, x.split())
+    print(abs(x - y))

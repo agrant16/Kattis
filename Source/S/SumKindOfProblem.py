@@ -1,10 +1,13 @@
 # Sum Kind of Problem
 
+
 def oddSum(n):
-    return n * n 
+    return n * n
+
 
 def evenSum(n):
     return n * n + n
+
 
 def firstN(n):
     return (n * (n + 1)) // 2
