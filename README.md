@@ -2,7 +2,7 @@
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com).
 
-There are currently 66 solutions contained here. The solutions are listed below in Alphabetical order.
+There are currently 67 solutions contained here. The solutions are listed below in Alphabetical order.
 
 0
 
@@ -74,6 +74,8 @@ C
 
 
 D
+
+	Daylight Saving Time
 
 	Detailed Differences
 
