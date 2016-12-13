@@ -2,13 +2,13 @@
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com).
 
-There are currently 68 problem solutions contained here. The problems are listed below in Alphabetical order. Each listing of a problem is also a link to the source code for my solution of that problem. 
+There are currently 69 problem solutions contained here. The problems are listed below in Alphabetical order. Each listing of a problem is also a link to the source code for my solution of that problem. For Java solutions Kattis requires that the class and file name be "Main". I have changed any Java solutions so that the class and file names are the associated problem title.
 
 | Language | Solutions Using |
 |---|---|
 | Python | 67 |
 | C++ | 1 |
-| Java | 0 |
+| Java | 1 |
 
 [**0**](#0)	[**1**](#1)	[**2**](#2)	[**3**](#3)	[**4**](#4)	[**5**](#5)	[**6**](#6)	[**7**](#7)	[**8**](#8)	[**9**](#9)	[**A**](#a)	[**B**](#b)	[**C**](#c)	[**D**](#d)	[**E**](#e)	[**F**](#f)	[**G**](#g)	[**H**](#h)	[**I**](#i)	[**J**](#j)	[**K**](#k)	[**L**](#l)	[**M**](#m)	[**N**](#n)	[**O**](#o)	[**P**](#p)	[**Q**](#q)	[**R**](#r)	[**S**](#s)	[**T**](#t)	[**U**](#u)	[**V**](#v)	[**W**](#w)	[**X**](#x)	[**Y**](#y)	[**Z**](#z)	
 
@@ -269,6 +269,8 @@ There are currently 68 problem solutions contained here. The problems are listed
 [Sum Kind of Problem](S/SumKindOfProblem.py)
 
 [Support Vector Machine](S/SupportVectorMachine.py)
+
+[Symmetric Order](S/SymmetricOrder.java)
 
 
 [-Top-](#kattis)
