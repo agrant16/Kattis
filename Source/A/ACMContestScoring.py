@@ -23,7 +23,6 @@ while line != "-1":
 
     line = input()
 
-
 count = 0
 score = 0
 for key in problems.keys():
