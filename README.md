@@ -1,6 +1,6 @@
 # Kattis Problem Solutions
 **Alan Grant**
-**Updated:** Wednesday December 14, 2016 at 03:00:05 PM
+**Updated:** Wednesday December 14, 2016 at 03:06:16 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,10 +8,10 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
-|Java|0|
-|C++|0|
-|Python 3|0|
-|All|0|
+|C++|1|
+|Java|1|
+|Python 3|67|
+|All|69|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
