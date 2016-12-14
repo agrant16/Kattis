@@ -3,7 +3,7 @@ Program: filecount.py
 Description: This script walks through Source/ obtaining counts of all 
              the solutions held within as well as their location and the 
              associated problem title (listed on the first line of each 
-             program) for each solution. 
+             program) for each solution.
 
              After gathering all required data it then creates and formats 
              the README.md file for this repository. 
@@ -43,7 +43,7 @@ f.write('This repository contains my solutions to problems found on '
         '[open.kattis.com](http://open.kattis.com). My profile can be found '
         '[here](http://open.kattis.com/users/alan-grant-1058).\n\n')
 f.write('There are currently ' + str(sum([len(item) 
-        for key,item in problems.items()]))  + ' problem solutions contained '
+        for item in problems.values()]))  + ' problem solutions contained '
         'here. The problems are listed below in Alphabetical order. Each '
         'listing of a problem is also a link to the source code for my '
         'solution of that problem. For Java solutions Kattis requires that '
