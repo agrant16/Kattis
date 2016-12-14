@@ -1,2 +1,4 @@
-filecount.py
-
+*.pyc
+*.exe
+*.out
+*.run
