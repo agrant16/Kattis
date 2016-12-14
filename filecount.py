@@ -21,7 +21,6 @@ paths = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ' # string of paths within Source/
 # dictionary to store file paths and the problem titles
 problems = {'Source/' + c: [] for c in paths}
 toc = ['[**' + c + '**]' + '(#' + c.lower() + ')\t' for c in paths] + ['\n\n']
-langChart = [ ]
 
 # Walk through each of the directories included in paths.
 for d, subd, files in os.walk('Source'):
@@ -50,10 +49,10 @@ f.write('# Kattis Problem Solutions\n**Alan Grant**\n**Updated:** '
 
 # Print chart displaying languages used and the number of solutions using
 # that language
-f.writelines(x for y in [['|Language|Number of Solutions|\n|---| ---:|\n'],
+f.writelines(s for lst in [['|Language|Number of Solutions|\n|---| ---:|\n'],
              ['|' + v[0] + '|' + str(v[1]) + '|\n' for v in langs.values()],
              ['|All|' + str(sum(v[1] for v in langs.values())) + '|\n\n']] 
-             for x in y)
+             for s in lst)
 
 # Print a table of contents with links to the proper sections.
 f.write('Click the appropriate character to jump to the section containing '
