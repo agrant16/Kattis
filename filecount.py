@@ -10,65 +10,57 @@ Description: This script walks through Source/ obtaining counts of all
 """
 
 import os
-import os.path
 import time
 
 # Dictionary to hold language counts.
-langs = {'cc': ['C++', 0],
-         'py': ['Python 3', 0],
-         'java': ['Java', 0]}
+langs = {'.cc': ['C++', 0],
+         '.py': ['Python 3', 0],
+         '.java': ['Java', 0]}
 
 paths = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ' # string of paths within Source/
-problems = {} # dictionary to store file paths and the problem titles
-total = 0 # the number of files. 
-
-for letter in paths:
-    problems['Source/' + letter] = []
+# dictionary to store file paths and the problem titles
+problems = {'Source/' + c: [] for c in paths}
+toc = ['[**' + c + '**]' + '(#' + c.lower() + ')\t' for c in paths] + ['\n\n']
+langChart = [ x for y in [['|Language|Number of Solutions|\n|---| ---:|\n'],
+             ['|' + v[0] + '|' + str(v[1]) + '|\n' for v in langs.values()],
+             ['|All|' + str(sum(v[1] for v in langs.values())) + '|\n\n']] 
+             for x in y]
 
 # Walk through each of the directories included in paths.
 for d, subd, files in os.walk('Source'):
-    for i in files: # iterate through the files in Source/d
-        langs[i[i.index('.') + 1:]][1] += 1  # update each lang's count
+    for name in files: # iterate through the files in Source/d
+        langs[os.path.splitext(name)[1]][1] += 1  # update each lang's count
         # Open each file, get the title of the problem, and store the
         # file path and the title in problems
-        f = open(d + '/' + i, 'r')
-        problems[d].append((d + '/' + i, f.readline().strip()[2:]))
+        f = open(d + '/' + name, 'r')
+        problems[d].append((d + '/' + name, f.readline().strip()[2:]))
         f.close()
 
 f = open('README.md', 'w')  # Open README.md for writing.
 
-# Print various information including link to open.kattis.com and the number
-# of solutions in my repository.
-f.write('# Kattis Problem Solutions\n')
-f.write('#### Alan Grant\n')
-f.write('**Updated:** ' + time.strftime('%A %x') + ' at ' 
-        + time.strftime('%I:%M:%S %p') + '\n\n')
-f.write('This repository contains my solutions to problems found on '
+# Print header, name, date/time of last update, and various information about 
+# the repository
+f.write('# Kattis Problem Solutions\n**Alan Grant**\n**Updated:** ' 
+        + time.strftime('%A %B %d, %Y') + ' at ' + time.strftime('%I:%M:%S %p')
+        + '\n\nThis repository contains my solutions to problems found on '
         '[open.kattis.com](http://open.kattis.com). My profile can be found '
-        '[here](http://open.kattis.com/users/alan-grant-1058).\n\n')
-f.write('The problems are listed below in Alphabetical order. Each '
-        'listing of a problem is also a link to the source code for my '
-        'solution of that problem. For Java solutions Kattis requires that '
-        'the class and file name be "Main". I have changed any Java '
-        'solutions so that the class and file names are the associated '
-        'problem title.\n\n')
+        '[here](http://open.kattis.com/users/alan-grant-1058).\n\nThe problems'
+        ' are listed below in Alphabetical order. Each listing of a problem is'
+        ' also a link to the source code for my solution of that problem. For '
+        'Java solutions Kattis requires that the class and file name be '
+        '"Main". I have changed any Java solutions so that the class and file '
+        'names are the associated problem title.\n\n')
 
 # Print chart displaying languages used and the number of solutions using
 # that language
-f.write('| Language | Solutions Using |\n| --- | ---: |\n')
-for key, item in langs.items():
-    f.write('| ' + item[0] + ' | ' + str(item[1]) + ' |\n')
-f.write('| All | ' + str(sum(item[1] for item in langs.values())) + ' |\n\n')
+f.writelines(s for s in langChart)
 
 # Print a table of contents with links to the proper sections.
 f.write('Click the appropriate character to jump to the section containing '
         'problems whose titles begin with that character. To return to the '
-        'top click the link titled "-Top-" at the bottom of the section.'
-        '\n\n')
+        'top click the link titled "-Top-" at the bottom of the section.\n\n')
 
-for x in paths:
-    f.write('[**' + x + '**]' + '(#' + x.lower() + ')\t')
-f.write('\n\n')
+f.writelines(s for s in toc)
 
 # Print the solutions in alphabetical order with each letter/number having
 # its own section. Each listing of a problem is also a link to that problem's
@@ -77,7 +69,7 @@ for char in paths:
     d = 'Source/' + char
     # sort each array of problem titles ignoring case
     problems[d] = sorted(problems[d], key=lambda s: s[1].lower())
-    f.write('## ' + char + '\n\n') # Section header
+    f.write('### ' + char + '\n\n') # Section header
     for (fp, name) in problems[d]:
         f.write('[' + name + '](' + fp + ')\n\n') # link to solution source
     f.write('\n')

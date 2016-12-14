@@ -1,73 +1,73 @@
 # Kattis Problem Solutions
-#### Alan Grant
-**Updated:** Wednesday 12/14/16 at 01:06:41 PM
+**Alan Grant**
+**Updated:** Wednesday December 14, 2016 at 03:00:05 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
 The problems are listed below in Alphabetical order. Each listing of a problem is also a link to the source code for my solution of that problem. For Java solutions Kattis requires that the class and file name be "Main". I have changed any Java solutions so that the class and file names are the associated problem title.
 
-| Language | Solutions Using |
-| --- | ---: |
-| Python 3 | 67 |
-| Java | 1 |
-| C++ | 1 |
-| All | 69 |
+|Language|Number of Solutions|
+|---| ---:|
+|Java|0|
+|C++|0|
+|Python 3|0|
+|All|0|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
 [**0**](#0)	[**1**](#1)	[**2**](#2)	[**3**](#3)	[**4**](#4)	[**5**](#5)	[**6**](#6)	[**7**](#7)	[**8**](#8)	[**9**](#9)	[**A**](#a)	[**B**](#b)	[**C**](#c)	[**D**](#d)	[**E**](#e)	[**F**](#f)	[**G**](#g)	[**H**](#h)	[**I**](#i)	[**J**](#j)	[**K**](#k)	[**L**](#l)	[**M**](#m)	[**N**](#n)	[**O**](#o)	[**P**](#p)	[**Q**](#q)	[**R**](#r)	[**S**](#s)	[**T**](#t)	[**U**](#u)	[**V**](#v)	[**W**](#w)	[**X**](#x)	[**Y**](#y)	[**Z**](#z)	
 
-## 0
+### 0
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 1
+### 1
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 2
+### 2
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 3
+### 3
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 4
+### 4
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 5
+### 5
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 6
+### 6
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 7
+### 7
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 8
+### 8
 
 
 [-Top-](#kattis-problem-solutions)
 
-## 9
+### 9
 
 
 [-Top-](#kattis-problem-solutions)
 
-## A
+### A
 
 [A Different Problem](Source/A/ADifferentProblem.py)
 
@@ -86,7 +86,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## B
+### B
 
 [Babelfish](Source/B/Babelfish.py)
 
@@ -99,7 +99,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## C
+### C
 
 [Cetvrta](Source/C/Cetvrta.py)
 
@@ -110,7 +110,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## D
+### D
 
 [Daylight Saving Time](Source/D/DaylightSavingTime.py)
 
@@ -125,7 +125,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## E
+### E
 
 [Eligibility](Source/E/Eligibility.py)
 
@@ -134,14 +134,14 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## F
+### F
 
 [FizzBuzz](Source/F/FizzBuzz.py)
 
 
 [-Top-](#kattis-problem-solutions)
 
-## G
+### G
 
 [Goldbach's Conjecture](Source/G/GoldbachsConjecture.cc)
 
@@ -150,7 +150,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## H
+### H
 
 [Hello World!](Source/H/HelloWorld.py)
 
@@ -159,19 +159,19 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## I
+### I
 
 [I've Been Everywhere Man](Source/I/IveBeenEverywhereMan.py)
 
 
 [-Top-](#kattis-problem-solutions)
 
-## J
+### J
 
 
 [-Top-](#kattis-problem-solutions)
 
-## K
+### K
 
 [Karte](Source/K/Karte.py)
 
@@ -180,7 +180,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## L
+### L
 
 [Ladder](Source/L/Ladder.py)
 
@@ -189,7 +189,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## M
+### M
 
 [Mirror Images](Source/M/MirrorImages.py)
 
@@ -200,12 +200,12 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## N
+### N
 
 
 [-Top-](#kattis-problem-solutions)
 
-## O
+### O
 
 [Odd Man Out](Source/O/OddManOut.py)
 
@@ -214,7 +214,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## P
+### P
 
 [Pet](Source/P/Pet.py)
 
@@ -231,12 +231,12 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## Q
+### Q
 
 
 [-Top-](#kattis-problem-solutions)
 
-## R
+### R
 
 [Reverse Rot](Source/R/ReverseRot.py)
 
@@ -247,7 +247,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## S
+### S
 
 [Seven Wonders](Source/S/SevenWonders.py)
 
@@ -280,7 +280,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## T
+### T
 
 [T9 Spelling](Source/T/T9Spelling.py)
 
@@ -301,34 +301,34 @@ Click the appropriate character to jump to the section containing problems whose
 
 [-Top-](#kattis-problem-solutions)
 
-## U
+### U
 
 
 [-Top-](#kattis-problem-solutions)
 
-## V
+### V
 
 
 [-Top-](#kattis-problem-solutions)
 
-## W
+### W
 
 [What Does the Fox Say?](Source/W/WhatDoestheFoxSay.py)
 
 
 [-Top-](#kattis-problem-solutions)
 
-## X
+### X
 
 
 [-Top-](#kattis-problem-solutions)
 
-## Y
+### Y
 
 
 [-Top-](#kattis-problem-solutions)
 
-## Z
+### Z
 
 [Zamka](Source/Z/Zamka.py)
 
