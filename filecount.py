@@ -11,6 +11,7 @@ Description: This script walks through Source/ obtaining counts of all
 
 import os
 import os.path
+import time
 
 # Dictionary to hold language counts.
 langs = {'cc': ['C++', 0],
@@ -38,13 +39,14 @@ f = open('README.md', 'w')  # Open README.md for writing.
 
 # Print various information including link to open.kattis.com and the number
 # of solutions in my repository.
-f.write('# Kattis\n\n')
+f.write('# Kattis Problem Solutions\n')
+f.write('#### Alan Grant\n')
+f.write('**Updated:** ' + time.strftime('%A %x') + ' at ' 
+        + time.strftime('%I:%M:%S %p') + '\n\n')
 f.write('This repository contains my solutions to problems found on '
         '[open.kattis.com](http://open.kattis.com). My profile can be found '
         '[here](http://open.kattis.com/users/alan-grant-1058).\n\n')
-f.write('There are currently ' + str(sum([len(item) 
-        for item in problems.values()]))  + ' problem solutions contained '
-        'here. The problems are listed below in Alphabetical order. Each '
+f.write('The problems are listed below in Alphabetical order. Each '
         'listing of a problem is also a link to the source code for my '
         'solution of that problem. For Java solutions Kattis requires that '
         'the class and file name be "Main". I have changed any Java '
@@ -53,10 +55,10 @@ f.write('There are currently ' + str(sum([len(item)
 
 # Print chart displaying languages used and the number of solutions using
 # that language
-f.write('| Language | Solutions Using |\n|---|---|\n')
+f.write('| Language | Solutions Using |\n| --- | ---: |\n')
 for key, item in langs.items():
     f.write('| ' + item[0] + ' | ' + str(item[1]) + ' |\n')
-f.write('\n')
+f.write('| All | ' + str(sum(item[1] for item in langs.values())) + ' |\n\n')
 
 # Print a table of contents with links to the proper sections.
 f.write('Click the appropriate character to jump to the section containing '
@@ -73,11 +75,12 @@ f.write('\n\n')
 # solution.
 for char in paths:
     d = 'Source/' + char
+    # sort each array of problem titles ignoring case
     problems[d] = sorted(problems[d], key=lambda s: s[1].lower())
-    f.write('# ' + char + '\n\n')
+    f.write('## ' + char + '\n\n') # Section header
     for (fp, name) in problems[d]:
-        f.write('[' + name + '](' + fp + ')\n\n')
+        f.write('[' + name + '](' + fp + ')\n\n') # link to solution source
     f.write('\n')
-    f.write('[-Top-](#kattis)\n\n')
+    f.write('[-Top-](#kattis-problem-solutions)\n\n') # link to top of readme
 
 f.close()  # Close README.md
