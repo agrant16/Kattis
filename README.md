@@ -1,6 +1,6 @@
-# Kattis Problem Solutions
-**Alan Grant**
-**Updated:** Wednesday December 14, 2016 at 03:09:16 PM
+# Kattis Problem Solutions 
+**Alan Grant** 
+**Updated:** Wednesday December 14, 2016 at 03:10:07 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 

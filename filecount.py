@@ -36,7 +36,7 @@ f = open('README.md', 'w')  # Open README.md for writing.
 
 # Print header, name, date/time of last update, and various information about 
 # the repository
-f.write('# Kattis Problem Solutions\n**Alan Grant**\n**Updated:** ' 
+f.write('# Kattis Problem Solutions \n**Alan Grant** \n**Updated:** ' 
         + time.strftime('%A %B %d, %Y') + ' at ' + time.strftime('%I:%M:%S %p')
         + '\n\nThis repository contains my solutions to problems found on '
         '[open.kattis.com](http://open.kattis.com). My profile can be found '
