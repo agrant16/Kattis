@@ -1,6 +1,6 @@
 # Kattis Problem Solutions 
 **Alan Grant**  
-**Updated:** Wednesday December 14, 2016 at 03:10:59 PM
+**Updated:** Sunday May 12, 2019 at 03:59:18 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,10 +8,10 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
-|Python 3|67|
-|Java|1|
 |C++|1|
-|All|69|
+|Python 3|72|
+|Java|1|
+|All|74|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
@@ -38,6 +38,8 @@ Click the appropriate character to jump to the section containing problems whose
 [-Top-](#kattis-problem-solutions)
 
 ### 4
+
+[ssibilities = ['4']](Source/4/4Thought.py)
 
 
 [-Top-](#kattis-problem-solutions)
@@ -138,6 +140,10 @@ Click the appropriate character to jump to the section containing problems whose
 
 [FizzBuzz](Source/F/FizzBuzz.py)
 
+[int(max([int(n[::-1]) for n in input().split()]))](Source/F/Filip.py)
+
+[ts, fac = map(int, input().split())](Source/F/Faktor.py)
+
 
 [-Top-](#kattis-problem-solutions)
 
@@ -224,6 +230,8 @@ Click the appropriate character to jump to the section containing problems whose
 
 [Polygon Area](Source/P/PolygonArea.py)
 
+[port math](Source/P/Planina.py)
+
 [Pot](Source/P/Pot.py)
 
 [Ptice](Source/P/Ptice.py)
@@ -232,6 +240,8 @@ Click the appropriate character to jump to the section containing problems whose
 [-Top-](#kattis-problem-solutions)
 
 ### Q
+
+[= int(input()) > 0](Source/Q/Quadrant.py)
 
 
 [-Top-](#kattis-problem-solutions)
