@@ -1,6 +1,6 @@
 # Kattis Problem Solutions 
 **Alan Grant**  
-**Updated:** Sunday May 12, 2019 at 04:05:41 PM
+**Updated:** Sunday May 12, 2019 at 04:36:30 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,9 +8,9 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
+|Python 3|73|
+|C++|0|
 |Java|1|
-|C++|1|
-|Python 3|72|
 |All|74|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
@@ -149,7 +149,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 ### G
 
-[Goldbach's Conjecture](Source/G/GoldbachsConjecture.cc)
+[Goldbach's Conjecture](Source/G/GoldbachsConjecture.py)
 
 [Grass Seed](Source/G/GrassSeed.py)
 
