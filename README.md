@@ -1,6 +1,6 @@
 # Kattis Problem Solutions 
 **Alan Grant**  
-**Updated:** Sunday May 12, 2019 at 03:59:18 PM
+**Updated:** Sunday May 12, 2019 at 04:05:41 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,9 +8,9 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
+|Java|1|
 |C++|1|
 |Python 3|72|
-|Java|1|
 |All|74|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
@@ -39,7 +39,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 ### 4
 
-[ssibilities = ['4']](Source/4/4Thought.py)
+[4 Thought](Source/4/4Thought.py)
 
 
 [-Top-](#kattis-problem-solutions)
@@ -138,11 +138,11 @@ Click the appropriate character to jump to the section containing problems whose
 
 ### F
 
+[Faktor](Source/F/Faktor.py)
+
+[Filip](Source/F/Filip.py)
+
 [FizzBuzz](Source/F/FizzBuzz.py)
-
-[int(max([int(n[::-1]) for n in input().split()]))](Source/F/Filip.py)
-
-[ts, fac = map(int, input().split())](Source/F/Faktor.py)
 
 
 [-Top-](#kattis-problem-solutions)
@@ -228,9 +228,9 @@ Click the appropriate character to jump to the section containing problems whose
 
 [Pizza Crust](Source/P/PizzaCrust.py)
 
-[Polygon Area](Source/P/PolygonArea.py)
+[Planina](Source/P/Planina.py)
 
-[port math](Source/P/Planina.py)
+[Polygon Area](Source/P/PolygonArea.py)
 
 [Pot](Source/P/Pot.py)
 
@@ -241,7 +241,7 @@ Click the appropriate character to jump to the section containing problems whose
 
 ### Q
 
-[= int(input()) > 0](Source/Q/Quadrant.py)
+[Quadrant](Source/Q/Quadrant.py)
 
 
 [-Top-](#kattis-problem-solutions)
