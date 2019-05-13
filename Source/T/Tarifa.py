@@ -1,4 +1,4 @@
-# Tarifa.py
+# Tarifa
 
 x = int(input())
 N = int(input())
