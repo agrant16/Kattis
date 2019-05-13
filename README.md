@@ -1,6 +1,6 @@
 # Kattis Problem Solutions 
 **Alan Grant**  
-**Updated:** Monday May 13, 2019 at 12:27:54 PM
+**Updated:** Monday May 13, 2019 at 01:06:06 PM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,10 +8,10 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
-|Python 3|77|
-|Java|1|
+|Python 3|78|
 |C++|0|
-|All|78|
+|Java|1|
+|All|79|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
@@ -191,6 +191,8 @@ Click the appropriate character to jump to the section containing problems whose
 ### L
 
 [Ladder](Source/L/Ladder.py)
+
+[Last Factorial Digit](Source/L/LastFactorialDigit.py)
 
 [Line Them Up](Source/L/LineThemUp.py)
 
