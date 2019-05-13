@@ -1,6 +1,6 @@
 # Kattis Problem Solutions 
 **Alan Grant**  
-**Updated:** Sunday May 12, 2019 at 04:36:30 PM
+**Updated:** Monday May 13, 2019 at 11:46:58 AM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,10 +8,10 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
-|Python 3|73|
-|C++|0|
 |Java|1|
-|All|74|
+|Python 3|74|
+|C++|0|
+|All|75|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
@@ -84,6 +84,8 @@ Click the appropriate character to jump to the section containing problems whose
 [Another Candies](Source/A/AnotherCandies.py)
 
 [Apaxiaaaaaaaaaaaans!](Source/A/Apaxiaaaaaaaaaaaans!.py)
+
+[Autori.py](Source/A/Autori.py)
 
 
 [-Top-](#kattis-problem-solutions)
