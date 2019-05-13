@@ -1,6 +1,6 @@
 # Kattis Problem Solutions 
 **Alan Grant**  
-**Updated:** Monday May 13, 2019 at 11:46:58 AM
+**Updated:** Monday May 13, 2019 at 11:55:55 AM
 
 This repository contains my solutions to problems found on [open.kattis.com](http://open.kattis.com). My profile can be found [here](http://open.kattis.com/users/alan-grant-1058).
 
@@ -8,10 +8,10 @@ The problems are listed below in Alphabetical order. Each listing of a problem i
 
 |Language|Number of Solutions|
 |---| ---:|
-|Java|1|
-|Python 3|74|
+|Python 3|75|
 |C++|0|
-|All|75|
+|Java|1|
+|All|76|
 
 Click the appropriate character to jump to the section containing problems whose titles begin with that character. To return to the top click the link titled "-Top-" at the bottom of the section.
 
@@ -299,6 +299,8 @@ Click the appropriate character to jump to the section containing problems whose
 [Tajna](Source/T/Tajna.py)
 
 [Take Two Stones](Source/T/TakeTwoStones.py)
+
+[Tarifa.py](Source/T/Tarifa.py)
 
 [The Calculus of Ada](Source/T/TheCalculusofAda.py)
 
